@@ -1,0 +1,10 @@
+Task,Rock_Properties,Vp_m_s,Vs_m_s,Density_g_cc
+Task-1,Shale caprock,3300,1700,2.35
+Task-1,Gas-filled sandstone,4200,2700,2.35
+Task-1,Brine-filled sandstone,4200,2100,2.45
+Task-2,Shale caprock,2896,1402,2.25
+Task-2,Gas-filled sandstone,3322,2215,2.00
+Task-2,Brine-filled sandstone,3322,1401,2.25
+Task-3,Shale caprock,2307,1108,2.15
+Task-3,Gas-filled sandstone,1951,1301,1.95
+Task-3,Brine-filled sandstone,1951,930,2.20
